@@ -20,7 +20,7 @@
 </style>
 </head>
 
-<body style="margin:0; display:flex; justify-content:center; align-items:center; height:100vh; background:black;">
+<body style="margin:0; display:flex; justify-content:center; align-items:center; height:100vh; background:rgb(251, 165, 165);">
 
 <h1 style="
 font-size:80px;
