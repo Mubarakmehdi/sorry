@@ -28,7 +28,6 @@ font-family:Arial;
 animation:sorryMove 2s infinite;
 text-shadow:0 0 20px white;
 ">
-SORRY
 </h1>
 
 </body>
